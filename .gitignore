@@ -11,3 +11,6 @@ venv/
 
 # Editor-specific files
 .vscode/
+
+google_credentials.json
+token.pickle
