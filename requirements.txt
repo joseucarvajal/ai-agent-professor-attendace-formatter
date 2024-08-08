@@ -1,5 +1,10 @@
+pandas
 langchain
 langchain_openai
 langgraph 
 pydantic 
 python-dotenv
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
